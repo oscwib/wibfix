@@ -1,13 +1,11 @@
-# Chuckyfix
+
 BOT PROTECT CREATOR & ADMIN & 5 BOT + 1 GHOST.
 ------
 GET TOKEN :
 ------
-- `Google Chrome`
-- `http://www.tanaka.co.id:6969`
-- `Bot Alphat : https://github.com/Nadyatjia/AlphatTJ`
+- `Bot Alphat : https://github.com/oscwib/wibjs`
 -
-Cara Install Bot Chucky :
+Cara Install Bot :
 ------
 Di C9 :
 - Ketik -> `sudo apt-get update`
@@ -20,9 +18,7 @@ Di C9 :
 - Ketik -> `sudo pip install bs4`
 - Ketik -> `sudo pip install gtts`
 - Ketik -> `sudo pip install googletrans`
-- Ketik -> `git clone https://github.com/Nadyatjia/Chuckyfix`
-- Ketik -> `cd Chucky`
-- Ketik -> `python Chucky.py`
+- Ketik -> `git clone https://github.com/oscwib/wibfix`
 
 Di Termux :
 - Ketik -> `pkg update`
@@ -34,25 +30,7 @@ Di Termux :
 - Ketik -> `pip2 install bs4`
 - Ketik -> `pip2 install gtts`
 - Ketik -> `pip2 install googletrans`
-- Ketik -> `git clone https://github.com/Nadyatjia/Chuckyfix`
-- Ketik -> `cd Chucky`
-- Ketik -> `python2 Chucky.py`
-
-Cara Menjalankan Bot Kembali :
-------
-Di C9 :
-- Ketik -> `cd Chucky`
-- Ketik -> `python Chucky.py`
-
-Di Termux :
-- Ketik -> `cd Chucky`
-- Ketik -> `python2 Chucky.py`
-
-
-Credit By@ Nadya Sutjiadi.
-------
-- `Follow My Instagram : nadya.tjia`
-- `Add My ID LINE : nad_nad. (pake titik)`
+- Ketik -> `git clone https://github.com/oscwib/wibfix`
 
 Thx To :
 ------
