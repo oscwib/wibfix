@@ -4,7 +4,8 @@ BOT PROTECT CREATOR & ADMIN & 5 BOT + 1 GHOST.
 GET TOKEN :
 ------
 - `Bot Alphat : https://github.com/oscwib/wibjs`
--
+- 'generating token? http://101.255.95.249:6969/'
+
 Cara Install Bot :
 ------
 Di C9 :
